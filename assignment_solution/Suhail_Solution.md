@@ -11,3 +11,4 @@
 👇
 1) [Sum and Difference of Two Numbers](https://github.com/suhaillahmad/DSC-ASSIGNMENT-SOLUTION/blob/main/assigment%20solution%20in%20c%2B%2B/Sum_and_Difference_of_Two_Numbers.cpp)
 2) [For Loop in C++](https://github.com/suhaillahmad/DSC-ASSIGNMENT-SOLUTION/blob/main/assigment%20solution%20in%20c%2B%2B/For_Loop.cpp)
+3) [Conditional Statements](https://github.com/suhaillahmad/DSC-ASSIGNMENT-SOLUTION/blob/main/assigment%20solution%20in%20c%2B%2B/conditional_statement.cpp)
