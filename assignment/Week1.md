@@ -69,7 +69,7 @@ Print these patterns using loops:
      *******
     *********
     
-10.      *
+ 9.      *
         * *
        *   *
       *     *
@@ -79,7 +79,7 @@ Print these patterns using loops:
         * *
          *
 
-11.    *        *
+10.    *        *
        **      **
        ***    ***
        ****  ****
@@ -90,19 +90,19 @@ Print these patterns using loops:
        *        *
 
 
-12.    1
+11.    1
        2  3
        4  5  6
        7  8  9  10
        11 12 13 14 15
 
-13.    1
+12.    1
        0 1
        1 0 1
        0 1 0 1
        1 0 1 0 1
      
-14.      *
+13.      *
         * *
        * * *
       * * * *
@@ -112,7 +112,7 @@ Print these patterns using loops:
         * *
          *
 
-15.      
+14.      
        *        *
        **      **
        ***    ***
@@ -123,14 +123,14 @@ Print these patterns using loops:
        **      **
        *        *
 
-16.         1
+15.         1
           2 1 2
         3 2 1 2 3
       4 3 2 1 2 3 4
     5 4 3 2 1 2 3 4 5
 
 
-17.      4 4 4 4 4 4 4  
+16.      4 4 4 4 4 4 4  
          4 3 3 3 3 3 4   
          4 3 2 2 2 3 4   
          4 3 2 1 2 3 4   
@@ -138,7 +138,7 @@ Print these patterns using loops:
          4 3 3 3 3 3 4   
          4 4 4 4 4 4 4   
 
-18.    E
+17.    E
        D E
        C D E
        B C D E
