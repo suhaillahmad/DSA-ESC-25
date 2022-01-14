@@ -6,12 +6,19 @@
 
 ### Pattern Solution 
 1)[Pattern 1](https://github.com/suhaillahmad/DSC-ASSIGNMENT-SOLUTION/blob/main/assigment%20solution%20C%23/pattern(1).c)by Shivam
+
 2)[Pattern 2](https://github.com/suhaillahmad/DSC-ASSIGNMENT-SOLUTION/blob/main/assigment%20solution%20C%23/pattern(2).c)by Shivam
+
 3)[Pattern 3](https://github.com/suhaillahmad/DSC-ASSIGNMENT-SOLUTION/blob/main/assigment%20solution%20C%23/pattern(3).c)by Shivam
+
 4)[Pattern 4](https://github.com/suhaillahmad/DSC-ASSIGNMENT-SOLUTION/blob/main/assigment%20solution%20C%23/pattern(4).c)by Shivam
+
 5)[Pattern 5](https://github.com/suhaillahmad/DSC-ASSIGNMENT-SOLUTION/blob/main/assigment%20solution%20C%23/pattern(5).c)by Shivam
+
 6)[Pattern 6](https://github.com/suhaillahmad/DSC-ASSIGNMENT-SOLUTION/blob/main/assigment%20solution%20C%23/pattern(6).c)by Shivam
+
 7)[Pattern 7](https://github.com/suhaillahmad/DSC-ASSIGNMENT-SOLUTION/blob/main/assigment%20solution%20C%23/pattern(7).c)by Shivam
+
 8)[Pattern 8](https://github.com/suhaillahmad/DSC-ASSIGNMENT-SOLUTION/blob/main/assigment%20solution%20C%23/pattern(8).c)by Shivam
 
 
