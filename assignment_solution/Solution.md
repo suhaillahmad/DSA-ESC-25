@@ -40,5 +40,5 @@
 12) [Pattern 12](https://github.com/suhaillahmad/DSC-ASSIGNMENT-SOLUTION/blob/main/assigment%20solution%20in%20c%2B%2B/pattern(12).cpp) by Suhail
 13) [Pattern 13](https://github.com/suhaillahmad/DSC-ASSIGNMENT-SOLUTION/blob/main/assigment%20solution%20in%20c%2B%2B/pattern(13).cpp) by Suhail
 14) [Pattern 14](https://github.com/suhaillahmad/DSC-ASSIGNMENT-SOLUTION/blob/main/assigment%20solution%20in%20c%2B%2B/pattern(14).cpp) by Suhail
-15) [Pattern 15]() by Suhail
+15) [Pattern 15](https://github.com/suhaillahmad/DSC-ASSIGNMENT-SOLUTION/blob/main/assigment%20solution%20in%20c%2B%2B/pattern15.cpp) by Suhail
 16) [Pattern 16](https://github.com/suhaillahmad/DSC-ASSIGNMENT-SOLUTION/blob/main/assigment%20solution%20in%20c%2B%2B/pattern(16).cpp) by Suhail
