@@ -4,7 +4,7 @@
 2. [For Loop in C#](https://www.hackerrank.com/challenges/for-loop-in-c/problem?isFullScreen=true)
 3. [Conditional Statement](https://www.hackerrank.com/challenges/conditional-statements-in-c/problem?isFullScreen=true)
 
-Pattern Questions
+3) Pattern Questions
 
 Print these patterns using loops:
 
@@ -131,5 +131,8 @@ Print these patterns using loops:
        B C D E
        A B C D E
 ```
+
+
+5) [Reverse Integer](https://leetcode.com/problems/reverse-integer/) Leetcode.
         
         
