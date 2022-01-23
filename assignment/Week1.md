@@ -154,6 +154,7 @@ Print these patterns using loops:
 23) [ Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) Leetcode.
 24) [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) Leetcode.
 25) [ Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) Leetcode.
+26) [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) Leetcode.
         
       ## Basic Questions on Array - Kartikey Tandon (DSA Team Lead)
 
