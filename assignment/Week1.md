@@ -135,4 +135,23 @@ Print these patterns using loops:
 
 5) [Reverse Integer](https://leetcode.com/problems/reverse-integer/) Leetcode.
 6) [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) Leetcode.
+7) [Rearrange an array with O(1) extra space](https://practice.geeksforgeeks.org/problems/rearrange-an-array-with-o1-extra-space3142/1/?category[]=Arrays&category[]=Arrays&difficulty[]=1&page=1&query=category[]Arraysdifficulty[]1page1category[]Arrays) GFG.
+8) [k largest elements](https://practice.geeksforgeeks.org/problems/k-largest-elements4206/1/?category[]=Arrays&category[]=Arrays&difficulty[]=1&page=1&query=category[]Arraysdifficulty[]1page1category[]Arrays) GFG.
+9) [Sorting Elements of an Array by Frequency](https://practice.geeksforgeeks.org/problems/sorting-elements-of-an-array-by-frequency-1587115621/1/?category[]=Arrays&category[]=Arrays&difficulty[]=1&page=1&query=category[]Arraysdifficulty[]1page1category[]Arrays) GFG.
+10) [ Find First and Last Position of Element in Sorted Array ](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) Leetcode.
+11) [Count Primes](https://leetcode.com/problems/count-primes/) Leetcode.
+12) [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) Leetcode.
+13) [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) Leetcode.
+14) [Stone Game](https://leetcode.com/problems/stone-game/) Leetcode.
+15) [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) Leetcode.
+16) [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) Leetcode.
+17) [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) Leetcode.
+18) [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) Leetcode.
+19) [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) Leetcode.
+20) [Reverse String](https://leetcode.com/problems/reverse-string/) Leetcode.
+21) [String Compression](https://leetcode.com/problems/string-compression/) Leetcode.
+22) [Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/) Leetcode.
+23) [ Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) Leetcode.
+24) [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) Leetcode.
+25) [ Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) Leetcode.
         
