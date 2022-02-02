@@ -12,3 +12,4 @@
 8)  [Allocate Books](https://www.codingninjas.com/codestudio/problems/allocate-books_1090540) CodeStudio.
 9)  [Painter's Partition Problem](https://www.codingninjas.com/codestudio/problems/painter-s-partition-problem_1089557) CodeStudio.
 10) [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) Leetcode.
+11) [Missing Number](https://leetcode.com/problems/missing-number/) Leetcode.
