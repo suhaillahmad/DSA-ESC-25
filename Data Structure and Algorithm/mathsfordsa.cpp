@@ -1,3 +1,8 @@
+/* Author : Suhail Ahmad 
+   Date   : 2 / 01 / 2022 */
+
+
+
 /* 1) Prime number
 leetcode question no 204. Count Prime */
 
