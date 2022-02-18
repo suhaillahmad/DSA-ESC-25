@@ -1,3 +1,7 @@
+/* Author : Suhail Ahmad 
+   Date   : 13 / 02 / 2022 */
+
+
 /* Pointer is used to store the address of a datatype.
 example = int num = 5;
           int *p = &num;(p is a pointer to int).
