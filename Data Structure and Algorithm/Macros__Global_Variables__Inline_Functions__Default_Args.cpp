@@ -78,7 +78,7 @@ int main(){
 using namespace std;
 
 inline int getMax(int& a, int& b){
-    return (a>b) ? a:b;    // If the body of the function is inline than we can make the function inlinw.
+    return (a>b) ? a:b;    // If the body of the function is in one line than we can make the function inline.
 }
 
 int main(){
@@ -107,11 +107,11 @@ int main(){
 #include<bits/stdc++.h>
 using namespace std;
 
-void print(int arr[], int n  , int start = 0) {     // we have always begin from the right most variable.
+void print(int arr[], int n  , int start = 0) {     // we have to always begin from the right most variable.
 
     for(int i = start; i<n; i++) {
         cout << arr[i] << endl;                    // In first function call it will print the entire array
-                                                   // In second function call it will print the 7,8,9.
+                                                   // In second function call it will print 7,8,9.
     }
 
 }
