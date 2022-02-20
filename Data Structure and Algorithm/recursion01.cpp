@@ -125,3 +125,7 @@ int main(){
 
    print(n);
 }
+
+/* For Better understanding -->
+   [Video Lecture Codehelp](https://www.youtube.com/watch?v=_-2u4EPHD88&t=31s)
+   [Documentation](https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms/content/118522/offering/1380913)
