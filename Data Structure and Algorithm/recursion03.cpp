@@ -135,3 +135,6 @@ int main(){
     else 
        cout << "The number is not present";
  }
+
+For Better understanding -->
+   [Video Lecture Codehelp](https://www.youtube.com/watch?v=UntSI7G5h20)
