@@ -196,3 +196,8 @@ int main(){
       cout << arr[i] << " ";
   }
 }
+
+For Better understanding -->
+   [Video Lecture Codehelp](https://www.youtube.com/watch?v=WyY2Af3k1xI).
+                            
+                            
