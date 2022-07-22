@@ -21,6 +21,8 @@ Output :
 #include<bits/stdc++.h>
 using namespace std;
 
+#define int long long
+
 const int N = 1000000 + 1;
 int n,bit[N];
 
@@ -39,7 +41,7 @@ int getSum(int r){
 		return sum;
 }
 
-int main(){
+signed main(){
 
   		cin >> n;  
   		int arr[n+1];
@@ -61,22 +63,15 @@ int main(){
   			arr[i] = m[arr[i]];
   		} 
 
+
   		// Finding Inversion count
 
   		int inversionAns = 0;
 
   		for(int i = 1;i <= n; i++){
   			inversionAns += getSum(n+1) - getSum(arr[i]);
-
   			update(1,arr[i]);  
   		}
   		cout << inversionAns << endl;
 }
-
-
-
-
-
-
-
 
